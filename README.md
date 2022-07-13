@@ -8,7 +8,9 @@ import re
     HOLA
 </p>
 ### What Credit cards are valid?
-
-  -American Express
-  -VISA
-  -Mastercard
+    <ul>
+  <li>American Express</li>
+  <li>VISA</li>
+  <li>Mastercard</li>
+  </ul>
+  
