@@ -4,13 +4,11 @@
 ```
 import re
 ```
-<p align="center">
-    HOLA
-</p>
-### What Credit cards are valid?
-    <ul>
-  <li>American Express</li>
-  <li>VISA</li>
-  <li>Mastercard</li>
-  </ul>
+
+<h3>What Credit cards are valid?</h3>
+   <ul>
+      <li>American Express</li>
+      <li>VISA</li>
+      <li>Mastercard</li>
+   </ul>
   
