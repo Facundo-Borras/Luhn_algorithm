@@ -38,4 +38,7 @@ import re
          <ul>
             <li>Start with 34 or 37</li>
             <li>Has a lenght of 15</li>
-         </ul>   
+         </ul>  
+<h3> Error:</h3>
+   <p>If the input don't match the regex pattern it will throw an error.<br>
+      To match it, just enter numbers with hyphens or whitespaces. But do not combine them.</p>
