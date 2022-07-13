@@ -1,10 +1,10 @@
-# Luhn_algorithm
+# Script break down
 
-## Library used 
+### Library used 
 ```
 import re
 ```
-## What Credit cards are valid?
+### What Credit cards are valid?
 
   -American Express
   -VISA
