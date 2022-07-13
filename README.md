@@ -15,25 +15,25 @@ import re
 
 <h3>What Credit cards are valid?</h3>
    <ul>
-      <li>American Express</li>
+      <li>American Express:</li>
       <li>VISA</li>
       <li>Mastercard</li>
    </ul>
 
 <h3>Constants to know to which company belongs the credit card</h3>
-   <h4>VISA</h4>
+   <h4>VISA:</h4>
       <p>Conditions</p>
          <ul>
             <li>Start with 4</li>
             <li>Has a lenght of 13 or 16</li>
          </ul>
-   <h4>Mastercard</h4>
+   <h4>Mastercard:</h4>
       <p>Conditions</p>
          <ul>
             <li>Start with 51, 52, 53, 54 or 55</li>
             <li>Has a lenght of 16</li>
          </ul>
-<h4>American Express</h4>
+<h4>American Express:</h4>
       <p>Conditions</p>
          <ul>
             <li>Start with 34 or 37</li>
