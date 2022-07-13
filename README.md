@@ -4,7 +4,7 @@
    <ul>
      <li>It is done in Python 3</li>
      <li>It is not require to download anything</li>
-      <li>Feel free to use it, that would make me happy :rofl:</li>
+      <li>Feel free to use it, that would make me happy :hugs:</li>
    </ul>
 
 <h3>Library used</h3>
